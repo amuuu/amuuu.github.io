@@ -1,9 +1,9 @@
-title: Stack Problems
-description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
-disqus_shortname: stackproblems
+title: AMU's Notes
+description: My Personal blog
+author: AMU
+github: https://github.com/amuuu
+about: I make stuff (sound tools, music, games, etc.)
+disqus_shortname: amunotes
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
@@ -15,16 +15,18 @@ collections:
     permalink: /project/:path/
 
 social:
-    - icon: fa-facebook
-      link: "#"
+    - icon: fa-instagram
+      link: "https://instagram.com/amuexpress"
     - icon: fa-twitter
-      link: "#"
+      link: "https://twitter.com/sudoamu"
     - icon: fa-linkedin
-      link: "#"
-    - icon: fa-stack-exchange
-      link: "#"
+      link: "https://linkedin.com/in/amirreza-amouie"
+    - icon: fa-spotify
+      link: "https://spoti.fi/2kNt827"
+    - icon: fa-bandcamp
+      link: "https://amuuu.bandcamp.com"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/amuuu"
 
 share:
   twitter_username: github.io
@@ -33,12 +35,10 @@ share:
 urls:
     - text: About Me
       url: /about/
-    - text: My Projects
-      url: /projects/
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://amuuu.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
