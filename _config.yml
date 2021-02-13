@@ -3,7 +3,6 @@ description: My Personal blog
 author: AMU
 github: https://github.com/amuuu
 about: I make stuff (sound tools, music, games, etc.)
-disqus_shortname: amunotes
 google_analytics: UA-XXXXXXXX-Y
 
 enableTags: true
