@@ -1,5 +1,14 @@
+/* codesaver */
+@font-face {
+  font-family: CodeSaver;
+  /* font-style: normal; */
+  /* font-weight: 300; */
+  src: url(../fonts/CodeSaver.otf); /* Chrome 26+, Opera 23+, Firefox 39+ */
+}
+
+
 body {
-  font-family: "CodeSaver", CodeSaver, Arial, sans-serif;
+  font-family: CodeSaver, Arial, sans-serif;
   /* background: url("/static/img/subtle_dots.png"); */
   line-height: 1.5em;
   font-weight: 300;
