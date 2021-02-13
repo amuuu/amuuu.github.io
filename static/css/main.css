@@ -1,5 +1,5 @@
 body {
-  font-family: "CodeSaver", CodeSaver, Arial, sans-serif;
+  font-family: Georgia, "CodeSaver", CodeSaver, Arial, sans-serif;
   /* background: url("/static/img/subtle_dots.png"); */
   line-height: 1.5em;
   font-weight: 300;
@@ -62,7 +62,7 @@ div.content pre {
   padding: 10px;
   color: #FFF;
   overflow-x: auto;
-  font-family: CodeSaver, "CodeSaver", Menlo, Monaco, Consolas, 'Courier New', monospace;
+  font-family: Georgia, CodeSaver, "CodeSaver", Menlo, Monaco, Consolas, 'Courier New', monospace;
   font-size: 12px;
   border: none;
 }
