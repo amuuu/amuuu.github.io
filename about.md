@@ -4,7 +4,15 @@ title: About
 permalink: /about/
 ---
 
-I make music and tools related to msuic and sounds. I also make games, and overall anything that's fun! My computer-related projects can be found in my resume and my GitHub. Other than that here's a list of other things I've done by far:
+I make music and tools related to msuic and sounds. I also make games, and overall anything that's fun! Here's a list of some of the things I've done by far:
+
+## Worked on these coding projects:
+- [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
+- [Natural (open-source digital hardware synthesizer)]()
+- Generative Music DAW
+- Game of Life Exploration Generative Music Experience
+
+(Find more stuff on my [GitHub](https://github.com/amuuu))
 
 ## Composed music for these films and games:
 - Kar-1 (Video Game) (2020)
@@ -12,8 +20,14 @@ I make music and tools related to msuic and sounds. I also make games, and overa
 - [Chaos at Space Station (Video Game)](https://open.spotify.com/track/40Ae7Iz5G6OI7Sptt3rpGT?si=a9t_GrB0QOWJJZ4lLIkr2Q) (2020) (my own project)
 - [Patterns (Short Film)](https://open.spotify.com/track/2unpeRtRLdgo9Guw6JfUBi?si=etzMsksASJKHa6U8RIFpMg) (2019) (my own project)
 
+(Find more stuff on my [Spotify](https://spoti.fi/2kNt827) and [Bandcamp](https://amuuu.bandcamp.com))
+
 ## Done sound design for these films and games:
 - Kar-1 (Video Game) (2020)
 
-## Been part of these events:
+## Been part of these videos/podcasts:
 - [Dev Discuss podcast episode: How to Combine Music and Code](https://dev.to/devdiscuss/s4-e4-how-to-combine-music-and-code) (May 2021)
+
+## Talked/lectured in this workshops and events:
+- [Sonic Pi Workshop](https://github.com/amuuu/sonic-pi-workshop-iust) (Jan 2021) (at Iran University of Science and Technology)
+- Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
