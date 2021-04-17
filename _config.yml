@@ -1,55 +1,63 @@
-title: Posts
-description: My Personal blog
-author: AMU
-github: https://github.com/amuuu
-about: I make stuff (sound tools, music, games, etc.) Sometimes I reinvent the wheels just for fun!
-google_analytics: UA-XXXXXXXX-Y
+# Site settings
+title_left    : "Think"
+title_right   : "space" # default: ""
+description   : "Minimalist Jekyll theme for technical writing blog."
+keywords      : "Jekyll, theme, free, download, SEO, blog, web, minimalist, thinkspace"
+url           : https://heiswayi.github.io/thinkspace # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+cover         : "" # image uri like logo/cover image for site seo
 
-enableTags: true
-tagarray: []
+google_analytics  : UA-XXXXX-XX
+twitter_username  : ""
+comments_enabled  : false # if enabled (set to true), please provide your disqus_username
+disqus_shortname  : ""
+postshare_enabled : false
 
-collections:
-  project:
-    output: true
-    permalink: /project/:path/
+# Build settings
+permalink   : /:year/:title/
+markdown    : kramdown
+highlighter : rouge
 
-social:
-    - icon: fa-instagram
-      link: "https://instagram.com/amuexpress"
-    - icon: fa-twitter
-      link: "https://twitter.com/sudoamu"
-    - icon: fa-linkedin
-      link: "https://linkedin.com/in/amirreza-amouie"
-    - icon: fa-spotify
-      link: "https://spoti.fi/2kNt827"
-    - icon: fa-github
-      link: "https://github.com/amuuu"
-    - icon: fa-medium
-      link: "https://amuuu.medium.com"
+source      : ./
+destination : ./_site
 
-share:
-  twitter_username: sudoamu
-  fb_appid: 1749788565247320
+# Sass configuration
+sass:
+  sass_dir  : assets/scss
+  style     : compressed # expanded
 
-urls:
-    - text: About Me
-      url: /about/
-    - text: XML Feed
-      url: /feed.xml
+# Author settings
+author:
+  name     : "John Doe"
 
-url: "https://amuuu.github.io"
-baseurl: ""
-paginate: 20
-per_page: 20
-paginate_path: "/page/:num/"
-markdown: kramdown
-gems:
+plugins:
+  - jekyll-sitemap
+  - bourbon
   - jekyll-paginate
-  - jekyll-gist
 
-compress_html:
-  clippings: all
-  comments: ["<!-- ", " -->"]
-  endings: all
-  ignore:
-    envs: ['development']
+# navbar pages
+navbar:
+  - slug : about
+    title: About
+  - slug : blog
+    title: Blog
+
+exclude:
+  - "gulp"
+  - "node_modules"
+  - "bower"
+  - "bower_components"
+  - "config.rb"
+  - "src"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - ".rvmrc"
+  - ".rbenv-version"
+  - "package.json"
+  - "gulpfile.js"
+  - "README.md"
+  - "Rakefile"
+  - "changelog.md"
+  - "script"
+  - "vendor"
+  - "thinkspace.gemspec"
