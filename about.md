@@ -14,7 +14,7 @@ I make music and tools related to msuic and sounds. I also make games, and overa
 
 (Find more stuff on my [GitHub](https://github.com/amuuu))
 
-## Composed music for these films and games:
+## Did the music for these films and games:
 - Kar-1 (Video Game) (2020)
 - [FLASH (Short Film)](https://open.spotify.com/track/3pngtvPzXgUM9qpCF4fb4o?si=53a608a8d32743ce) (2020) (Nominated for the best horror film at Hellbound Horror Festival)
 - [Chaos at Space Station (Video Game)](https://open.spotify.com/track/40Ae7Iz5G6OI7Sptt3rpGT?si=a9t_GrB0QOWJJZ4lLIkr2Q) (2020) (my own project)
@@ -28,6 +28,6 @@ I make music and tools related to msuic and sounds. I also make games, and overa
 ## Been part of these videos/podcasts:
 - [Dev Discuss podcast episode: How to Combine Music and Code](https://dev.to/devdiscuss/s4-e4-how-to-combine-music-and-code) (May 2021)
 
-## Talked/lectured in this workshops and events:
+## Talked/lectured in these workshops and events:
 - [Sonic Pi Workshop](https://github.com/amuuu/sonic-pi-workshop-iust) (Jan 2021) (at Iran University of Science and Technology)
 - Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
