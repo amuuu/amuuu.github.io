@@ -1,7 +1,7 @@
 # Site settings
 title_left    : "AMU"
 title_right   : "" # default: ""
-description   : "AMU's Blog."
+description   : ""
 keywords      : "Amu, music, audio technology, audio programming, creative art, game development"
 url           : https://amuuu.github.io/ # site url
 baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
