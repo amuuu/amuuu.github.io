@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I make music and tools related to msuic and sounds. I also make games, and overall anything that's fun! Here's a list of some of the things I've done by far:
+Here's a list of some of the things I've done by far:
 
 ## Worked on these coding projects:
 - [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
