@@ -39,8 +39,6 @@ plugins:
 navbar:
   - slug : about
     title: About
-  - slug : other-writings
-    title: Other writings
   - slug : blog
     title: Blog
 
