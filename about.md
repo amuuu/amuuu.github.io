@@ -11,6 +11,7 @@ Here's a list of some of the things I've done by far:
 - [Natural (open-source digital hardware synthesizer)]()
 - Generative Music DAW
 - Game of Life Exploration Generative Music Experience
+- [AI Contest Game Framework](https://github.com/Chillin-Examples/SearchAndDefuse)
 
 (Find more stuff on my [GitHub](https://github.com/amuuu))
 
