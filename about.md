@@ -10,7 +10,7 @@ Here's a list of some of the things I've done by far:
 - [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
 - [Natural (open-source digital hardware synthesizer)]()
 - Generative Music DAW
-- Game of Life Exploration Generative Music Experience
+- [Game of Life Exploration Generative Music Experience](https://github.com/amuuu/game-of-life-generative-music)
 - [AI Contest Game Framework](https://github.com/Chillin-Examples/SearchAndDefuse)
 
 (Find more stuff on my [GitHub](https://github.com/amuuu))
