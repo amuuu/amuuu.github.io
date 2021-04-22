@@ -24,6 +24,7 @@ Here's a list of some of the things I've done by far:
 (Find more stuff on my [Spotify](https://spoti.fi/2kNt827) and [Bandcamp](https://amuuu.bandcamp.com))
 
 ## Done sound design for these films and games:
+- [Game of Life Exploration Generative Music Experience](https://github.com/amuuu/game-of-life-generative-music) (2021) (personal project)
 - Kar-1 (Video Game) (2020)
 
 ## Been part of these videos/podcasts:
