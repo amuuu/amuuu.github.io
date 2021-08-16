@@ -6,7 +6,7 @@ permalink: /about/
 
 Here's a list of some of the things I've done by far:
 
-## Worked on these coding projects:
+## Worked on these open-source (coding) projects:
 - [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
 - [Natural (open-source digital hardware synthesizer)]()
 - Generative Music DAW
@@ -33,3 +33,6 @@ Here's a list of some of the things I've done by far:
 ## Talked/lectured in these workshops and events:
 - [Sonic Pi Workshop](https://github.com/amuuu/sonic-pi-workshop-iust) (Jan 2021) (at Iran University of Science and Technology)
 - Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
+
+## Created these other projects:
+- @ni.hon.go (sharing and documenting my process of learning Japanese) ((Instagram)[https://bit.ly/37OnpOc] and (blog)[https://amuuu.github.io/ni.hon.go])
