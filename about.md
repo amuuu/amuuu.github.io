@@ -35,4 +35,4 @@ Here's a list of some of the things I've done by far:
 - Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
 
 ## Created these other projects:
-- @ni.hon.go (sharing and documenting my process of learning Japanese) ((Instagram)[https://bit.ly/37OnpOc] and (blog)[https://amuuu.github.io/ni.hon.go])
+- @ni.hon.go (sharing and documenting my process of learning Japanese) ([Instagram](https://bit.ly/37OnpOc) and [blog](https://amuuu.github.io/ni.hon.go))
