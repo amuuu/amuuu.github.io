@@ -8,8 +8,7 @@ Here's a list of some of the things I've done by far:
 
 ## Worked on these open-source (coding) projects:
 - [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
-- [Natural (open-source digital hardware synthesizer)]()
-- Generative Music DAW
+- [Natural (open-source digital hardware synthesizer)](https://github.com/funktional-stdo/natural-synth)
 - [Game of Life Exploration Generative Music Experience](https://github.com/amuuu/game-of-life-generative-music)
 - [AI Contest Game Framework](https://github.com/Chillin-Examples/SearchAndDefuse)
 
