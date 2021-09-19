@@ -6,11 +6,12 @@ permalink: /about/
 
 Here's a list of some of the things I've done by far:
 
-## Worked on these open-source (coding) projects:
-- [Ava (open-source sound engine)](https://github.com/funktional-stdo/ava/)
-- [Natural (open-source digital hardware synthesizer)](https://github.com/funktional-stdo/natural-synth)
-- [Game of Life Exploration Generative Music Experience](https://github.com/amuuu/game-of-life-generative-music)
+## Worked on these open-source projects:
+- [Ava (open-source sound engine)](https://github.com/amuuu/ava/)
+- [Natural (open-source digital hardware synthesizer)](https://github.com/amuuu/natural-synth)
 - [AI Contest Game Framework](https://github.com/Chillin-Examples/SearchAndDefuse)
+- [Game of Life Exploration Generative Music Experience](https://github.com/amuuu/game-of-life-generative-music)
+- [Music Theory Calculator (website)](https://amuuu.github.io/music-theory-calculator)
 
 (Find more stuff on my [GitHub](https://github.com/amuuu))
 
