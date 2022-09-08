@@ -51,6 +51,21 @@ Here's a list of some of the things I've done by far:
 - Convolutional Neural Networks ([Coursera Link](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning))
 - Signals and Systems ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/))
 
+## Read these computer-related technical books that I loved:
+(I'll complete this section)
+- Fundamentals of Software Architecture: An Engineering Approach (by Mark Richards)
+- Clean Code (by Robert Cecil Martin)
+- The Pragmatic Programmer (by Andy Hunt and Dave Thomas)
+
+## Read these non-technical books that I loved:
+(I'll complete this section)
+- Thoughts on Art and Life (by Leonardo da Vinci)
+- Meditations (by Marcus Aurelius)
+- Notes from Underground (by Fyodor Dostoevsky)
+- The Making of Prince of Persia (by Jordan Mechner)
+
+## Read these fictions that I loved:
+(I'll complete this section)
 
 
 
