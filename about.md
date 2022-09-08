@@ -23,8 +23,8 @@ Here's a list of some of the things I've done by far:
 
 ## Released these songs and albums:
 (My artist pages are at [Spotify](https://spoti.fi/2kNt827) and [Bandcamp](https://amuuu.bandcamp.com))
-- 2021 - Illuminate - [Listen](https://open.spotify.com/album/5zGYAPeLOzt6vSsCP1VFou)
-- 2021 - FLASH (Original Short Film Soundtrack) - [Listen](https://open.spotify.com/album/3MLJ7o1SiFuWgVD42uwxiK)
+- 2021 - Illuminate (Single) - [Listen](https://open.spotify.com/album/5zGYAPeLOzt6vSsCP1VFou)
+- 2021 - FLASH (Original Short Film Soundtrack) (Single) - [Listen](https://open.spotify.com/album/3MLJ7o1SiFuWgVD42uwxiK)
 - 2021 - Daily December 2020 (EP) - [Listen](https://open.spotify.com/album/3RcsRWX0ZAJpMjjREeIu8P)
 - 2020 - Dawn (an Improvisation) (Single) - [Listen](https://open.spotify.com/album/08R0U83by6YLxeqGTxNhGE)
 - 2020 - Chaos at Space Station (Original Game Soundtrack) (Single) - [Listen](https://open.spotify.com/album/7mIdWawLLP9SHV0LsLyFCE)
