@@ -51,7 +51,7 @@ Here's a list of some of the things I've done by far:
 - 2019 - Sometimes (Single) - [Listen](https://open.spotify.com/album/3jjWKyFhF7Wm1m1RakcvSV)
 - 2019 - Patterns (Original Short Film Soundtrack) (Single) - [Listen](https://open.spotify.com/album/4PdmELAEZt8y00YE5gcYJo)
 - 2019 - CPO (EP) - [Listen](https://open.spotify.com/album/7yJiLZ1VJET5ZeoxralwKY)
-- 2019 - Into Sunset (Single) - ([Listen](https://open.spotify.com/album/3C6Prb4gyMEl5Qntw7s4qA)
+- 2019 - Into Sunset (Single) - [Listen](https://open.spotify.com/album/3C6Prb4gyMEl5Qntw7s4qA)
 - 2018 - Loneloop. (EP) - [Listen](https://open.spotify.com/album/2gbkP3hjBGdIUiLSrKm3LP)
 
 ## Released these sound packs:
@@ -78,7 +78,8 @@ Here's a list of some of the things I've done by far:
 - Fundamentals of Software Architecture: An Engineering Approach (by Mark Richards)
 - Clean Code (by Robert Cecil Martin)
 - The Pragmatic Programmer (by Andy Hunt and Dave Thomas)
-- Game AI Pro (by lots of writers) - [Read for Free](http://www.gameaipro.com/)
+- Game AI Pro (by lots of writers) - [Read](http://www.gameaipro.com/)
+- Modern Operating Systems (by Andrew Tanenbaum)
 
 ## Read/reading these non-technical books that I loved:
 (I'll complete this section)
