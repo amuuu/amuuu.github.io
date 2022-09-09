@@ -15,6 +15,17 @@ Here's a list of some of the things I've done by far:
 
 (Find more stuff on my [GitHub](https://github.com/amuuu))
 
+## Worked on these games:
+- Mafia Nights [شب های مافیا] (Technical Lead, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.filimo.mafia?l=en)
+- Hokm+ (Senior Software Engineer, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.xalopex.hokm?l=en), [Google Play](https://play.google.com/store/apps/details?id=com.medrick.hokm), [Apple Store](https://apps.apple.com/us/app/hokm-plus-online-card-game/id1578418839)
+- About Goli [درباره گلی] (Software Engineer, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.medrick.blast?l=en), [Google Play](https://play.google.com/store/apps/details?id=com.medrick.blast)
+- Pik+ (Software Engineer, Medrick Game Studio) / [Google Play](https://play.google.com/store/apps/details?id=com.xalopex.spades)
+
+## Talked/lectured in these workshops/classes/events:
+- Fundamentals of Game Development Course (Full Semester Lecturer) (at Iran University of Science and Technology) (Fall 2022) ([GitHub](https://github.com/amuuu/game-course-fall-2021))
+- [Sonic Pi Workshop](https://github.com/amuuu/sonic-pi-workshop-iust) (Jan 2021) (at Iran University of Science and Technology)
+- Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
+
 ## Did the music for these films and games:
 - Kar-1 (Video Game) (2020)
 - [FLASH (Short Film)](https://open.spotify.com/track/3pngtvPzXgUM9qpCF4fb4o?si=53a608a8d32743ce) (2020) (Nominated for the best horror film at Hellbound Horror Festival)
@@ -53,17 +64,6 @@ Here's a list of some of the things I've done by far:
 ## Been part of these videos/podcasts:
 - [Dev Discuss podcast episode: How to Combine Music and Code](https://dev.to/devdiscuss/s4-e4-how-to-combine-music-and-code) (May 2021)
 
-## Talked/lectured in these workshops/classes/events:
-- Fundamentals of Game Development Course (Full Semester Lecturer) (at Iran University of Science and Technology) (Jan 2022) ([GitHub](https://github.com/amuuu/game-course-fall-2021))
-- [Sonic Pi Workshop](https://github.com/amuuu/sonic-pi-workshop-iust) (Jan 2021) (at Iran University of Science and Technology)
-- Python Beginner Workshop (Nov 2018) (at Iran PyCon Conference)
-
-## Worked on these games:
-- Mafia Nights [شب های مافیا] (Technical Lead, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.filimo.mafia?l=en)
-- Hokm+ (Senior Software Engineer, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.xalopex.hokm?l=en), [Google Play](https://play.google.com/store/apps/details?id=com.medrick.hokm), [Apple Store](https://apps.apple.com/us/app/hokm-plus-online-card-game/id1578418839)
-- About Goli [درباره گلی] (Software Engineer, Medrick Game Studio) / [Cafe Bazaar](https://cafebazaar.ir/app/com.medrick.blast?l=en), [Google Play](https://play.google.com/store/apps/details?id=com.medrick.blast)
-- Pik+ (Software Engineer, Medrick Game Studio) / [Google Play](https://play.google.com/store/apps/details?id=com.xalopex.spades)
-
 ## Watched these online courses that I loved:
 - Fundamentals of Software Architecture for Big Data ([Coursera Link](https://www.coursera.org/learn/software-architecture-for-big-data-fundamentals))
 - Initiating and Planning Projects ([Coursera Link](https://www.coursera.org/learn/project-planning/))
@@ -73,21 +73,19 @@ Here's a list of some of the things I've done by far:
 - Convolutional Neural Networks ([Coursera Link](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning))
 - Signals and Systems ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/))
 
-## Read these computer-related technical books that I loved:
+## Read/reading these computer-related technical books that I loved:
 (I'll complete this section)
 - Fundamentals of Software Architecture: An Engineering Approach (by Mark Richards)
 - Clean Code (by Robert Cecil Martin)
 - The Pragmatic Programmer (by Andy Hunt and Dave Thomas)
+- Game AI Pro (by lots of writers) - [Read for Free](http://www.gameaipro.com/)
 
-## Read these non-technical books that I loved:
+## Read/reading these non-technical books that I loved:
 (I'll complete this section)
 - Thoughts on Art and Life (by Leonardo da Vinci)
 - Meditations (by Marcus Aurelius)
 - Notes from Underground (by Fyodor Dostoevsky)
 - The Making of Prince of Persia (by Jordan Mechner)
 
-## Read these fictions that I loved:
+## Read/reading these fictions that I loved:
 (I'll complete this section)
-
-
-
