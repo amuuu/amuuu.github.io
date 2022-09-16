@@ -72,6 +72,7 @@ Here's a list of some of the things I've done by far:
 - Structuring Machine Learning Projects ([Coursera Link](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning))
 - Convolutional Neural Networks ([Coursera Link](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning))
 - Signals and Systems ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/res-6-007-signals-and-systems-spring-2011/))
+- Introduction to Algorithms ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/))
 
 ## Read/reading these computer-related technical books that I loved:
 (I'll complete this section)
