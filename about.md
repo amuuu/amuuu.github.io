@@ -82,6 +82,9 @@ Watch List:
 
 ## Read/reading these computer-related technical books that I loved:
 (I'll complete this section)
+- Effective Modern C++ (by Scott Meyers)
+- C++ Crash Course, A Fast-Paced Introduction (by Josh Lospinoso)
+- A Philosophy of Software Design (by John Ousterhout)
 - Fundamentals of Software Architecture: An Engineering Approach (by Mark Richards)
 - Clean Code (by Robert Cecil Martin)
 - The Pragmatic Programmer (by Andy Hunt and Dave Thomas)
