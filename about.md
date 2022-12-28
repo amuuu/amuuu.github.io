@@ -80,8 +80,10 @@ Watch List:
 - Performance Engineering of Software Systems ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/6-172-performance-engineering-of-software-systems-fall-2018/))
 - Digital Signal Processing ([MIT OpenCourseWare Link](https://ocw.mit.edu/courses/res-6-008-digital-signal-processing-spring-2011/))
 
-## Read/reading these computer-related technical books that I loved:
+## Read/reading these computer-related technical books/publications that I loved:
 (I'll complete this section)
+- Google C++ Style Guide - [Read](https://google.github.io/styleguide/cppguide.html)
+- C++ Core Guidelines (by Bjarne Stroustrup, Herb Sutter) - [Read](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 - Effective Modern C++ (by Scott Meyers)
 - C++ Crash Course, A Fast-Paced Introduction (by Josh Lospinoso)
 - A Philosophy of Software Design (by John Ousterhout)
