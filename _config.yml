@@ -1,63 +1,25 @@
-# Site settings
-title_left    : "AMU"
-title_right   : "" # default: ""
-description   : "Blog"
-keywords      : "Amu, music, audio technology, audio programming, creative art, game development"
-url           : https://amuuu.github.io/ # site url
-baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
-cover         : "" # image uri like logo/cover image for site seo
+permalink: /:year:month:day/:title
+url: #Your url here
+baseurl: /project
 
-google_analytics  : UA-XXXXX-XX
-twitter_username  : "sudoamu"
-comments_enabled  : false # if enabled (set to true), please provide your disqus_username
-disqus_shortname  : ""
-postshare_enabled : false
+# variables
+name: Amirreza(amu)'s Stuff
+description: A bunch of things that I've done 
+google_verification: null
 
-# Build settings
-permalink   : /:year/:title/
-markdown    : kramdown
-highlighter : rouge
 
-source      : ./
-destination : ./_site
+# File management
+include: [".htaccess"]
+exclude: ["README.md", "LICENSE"]
 
-# Sass configuration
+# Sass
 sass:
-  sass_dir  : assets/scss
-  style     : compressed # expanded
+  style: :compressed
+  sass_dir: _sass
 
-# Author settings
-author:
-  name     : "AMU"
-
-plugins:
-  - jekyll-sitemap
-  - bourbon
-  - jekyll-paginate
-
-# navbar pages
-navbar:
-  - slug : about
-    title: About
-  - slug : blog
-    title: Blog
-
-exclude:
-  - "gulp"
-  - "node_modules"
-  - "bower"
-  - "bower_components"
-  - "config.rb"
-  - "src"
-  - "Gemfile"
-  - "Gemfile.lock"
-  - ".rvmrc"
-  - ".rbenv-version"
-  - "package.json"
-  - "gulpfile.js"
-  - "README.md"
-  - "Rakefile"
-  - "changelog.md"
-  - "script"
-  - "vendor"
-  - "thinkspace.gemspec"
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter_opts:
+    disable : true
