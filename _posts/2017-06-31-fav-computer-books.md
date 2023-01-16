@@ -12,6 +12,7 @@ These are some of my favorite computer-related books and publications:
 - C++ Crash Course, A Fast-Paced Introduction (by Josh Lospinoso)
 - A Philosophy of Software Design (by John Ousterhout)
 - Fundamentals of Software Architecture: An Engineering Approach (by Mark Richards)
+- Game Programming Patterns (by Robert Nystrom) - [Read](https://gameprogrammingpatterns.com/)
 - Clean Code (by Robert Cecil Martin)
 - The Pragmatic Programmer (by Andy Hunt and Dave Thomas)
 - Game AI Pro (by lots of writers) - [Read](http://www.gameaipro.com/)
